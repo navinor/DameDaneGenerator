@@ -7,7 +7,7 @@ Generates Dame Da ne meme (sound and all)
 Requirements:
  ```
 imageio
-pytorch
+torch
 matplotlib
 scikit-image
 imageio-ffmpeg

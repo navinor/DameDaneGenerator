@@ -23,4 +23,5 @@ The finished video with music will be named `generated_with_sound.mp4`
 If you just want the video without music, it will be in `generated.mp4`
 
 Have fun!
+
 cheers, Warhawk947

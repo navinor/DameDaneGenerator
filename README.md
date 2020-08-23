@@ -1,6 +1,8 @@
 # DameDaneGenerator
 Generates Dame Da ne meme (sound and all)
 
+***GO TO RELEASES, DOWNLOAD THE TAR FILES, AND PLACE THEM IN THE `firstordermodel` FOLDER***
+
 ```
 Requirements:
 imageio

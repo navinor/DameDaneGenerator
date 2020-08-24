@@ -3,6 +3,7 @@ Generates Dame Da ne meme (sound and all)
 
 ***GO TO RELEASES, DOWNLOAD THE TAR FILES, AND PLACE THEM IN THE `firstordermodel` FOLDER***
 
+Youtube video showcasing this: https://www.youtube.com/watch?v=n-my3TAbM6s
 
 Requirements:
  ```

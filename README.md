@@ -20,7 +20,7 @@ moviepy
 ```
 
 Replace `02.png` with the picture of the person that you want to sing dame da ne. The image dimensions ***have*** to be **256 x 256**
-The finished video with music will be named `generated_with_sound.mp4`
+The finished video with music will be named `generated_with_sound.mp4`, ***and run main.py***
 If you just want the video without music, it will be in `generated.mp4`
 
 Have fun!

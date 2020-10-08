@@ -17,7 +17,14 @@ tqdm
 sklearn
 pandas
 moviepy
+
+
+
+
+(NOT A PYTHON PACKAGE)
+You must use a Nvidia GPU to run this.
 ```
+
 
 Replace `02.png` with the picture of the person that you want to sing dame da ne. The image dimensions ***have*** to be **256 x 256**. ***Run main.py***.
 The finished video with music will be named `generated_with_sound.mp4`.

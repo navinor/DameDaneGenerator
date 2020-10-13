@@ -1,0 +1,10 @@
+imageio
+torch
+matplotlib
+scikit-image
+imageio-ffmpeg
+PyYAML==5.3.1
+tqdm
+sklearn
+pandas
+moviepy

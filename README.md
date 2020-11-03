@@ -7,6 +7,8 @@ Youtube video showcasing this: https://www.youtube.com/watch?v=n-my3TAbM6s
 
 Requirements:
  ```
+The Following are python packages:
+ 
 imageio
 torch
 matplotlib

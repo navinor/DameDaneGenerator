@@ -16,7 +16,7 @@ scikit-image
 imageio-ffmpeg
 PyYAML==5.3.1
 tqdm
-sklearn
+scikit-learn
 pandas
 moviepy
 
